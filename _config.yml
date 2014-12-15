@@ -1,18 +1,18 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Permanentnie
+email:       permanentnicz@gmail.com
+author:      Permanentnie
+description: "Permanentny blog"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://permanentnie.net"
 
 # Google analytics
 google_analytics:
 
 # Optional features
-animated:           false
+animated:           true
 show_related_posts: false
-show_post_footers:  false
+show_post_footers:  true
 
 # Social icons
 show_social_icons: false
