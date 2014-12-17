@@ -9,4 +9,4 @@ Czy blog jest czymś permanentym? Szczerze wątpię. Zdecydowana większość um
 
 Co dopiero z obiecywaniem komuś!
 
-Znalazłem temat, kupiłem domenę i ustawiłem darmowy hosting. Tyle potrafię. Co będzie dalej? Zobaczymy!
+Znalazłem temat, kupiłem domenę i ustawiłem darmowy hosting. Tyle potrafię. Co będzie dalej? Chuj wie!
