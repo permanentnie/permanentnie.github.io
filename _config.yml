@@ -15,7 +15,7 @@ show_related_posts: false
 show_post_footers:  true
 
 # Social icons
-show_social_icons: false
+show_social_icons: true
 github_username:
 twitter_username: permanentnie
 google_plus_id:
