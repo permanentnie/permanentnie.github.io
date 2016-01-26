@@ -1,32 +1,31 @@
-# Site settings
-title:       Permanentnie
-email:       permanentnicz@gmail.com
-author:      Permanentnie
-description: "Permanentny blog"
-baseurl:     ""
-url:         "http://permanentnie.net"
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
 
-# Google analytics
-google_analytics:
+# Setup
+gems:               [jekyll-paginate]
+title:               Poole
+tagline:             The Jekyll Butler
+url:                 http://getpoole.com
+paginate:            1
+baseurl:             ""
 
-# Optional features
-animated:           true
-show_related_posts: false
-show_post_footers:  true
-
-# Social icons
-show_social_icons: true
-github_username:
-twitter_username: permanentnie
-google_plus_id:
-linkedin_username:
-bitcoin_url:
-paypal_url:
-flattr_button:
-
-# Build settings
-markdown:     kramdown
-permalink:    pretty
-paginate:     3
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
 sass:
-  compressed: true
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
