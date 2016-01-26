@@ -6,9 +6,9 @@ permalink:           pretty
 
 # Setup
 gems:               [jekyll-paginate]
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Permanentnie
+tagline:             
+url:                 http://permanentnie.net
 paginate:            1
 baseurl:             ""
 
