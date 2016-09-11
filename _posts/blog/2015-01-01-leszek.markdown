@@ -2,6 +2,8 @@
 layout: post
 title: "Leszek"
 date: "2015-01-01"
+tags:
+- imiona
 summary: "Leszek uczył w liceum na zadupiu. Pochodził z jakiegoś Mińska Mazowieckiego czy innego Wołomina, ale coś poszło nie tak i po anglistyce, zamiast w stolicy wylądował w podrzędnym ogólniaku w miasteczku nad morzem. Poziom nauczania był żałosny i tylko dyrektorka, przymroczona starością była przekonana, że kieruje filią Hogwartu na Europę wschodnią. Lokalni nauczyciele starali się ją ignorować. Ci, którzy przyjechali z zewnątrz nie mieli tej umiejętności i żyli w wiecznym dysonansie poznawczym."
 ---
 

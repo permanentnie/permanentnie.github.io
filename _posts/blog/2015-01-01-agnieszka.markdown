@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Agnieszka"
+tags:
+- imiona
 date: "2015-01-02"
 summary: "Agnieszka była chyba z Kostrzynia. Miała żabie rysy twarzy i całkiem niedawno skończyła studia. Nosiła obcisłe jeansy, nie paliła papierosów. Była służbistką. Urzędniczka państwa na straży programu nauczania. Każdą dygresję obcinała morderczym spojrzeniem wyłupiastych oczu."
 ---

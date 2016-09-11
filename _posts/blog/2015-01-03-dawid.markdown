@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Dawid"
+tags:
+- imiona
 date: "2015-01-03"
 summary: "Dawid nie jest synem Izraela. Jego siostra nie jest Ryfką, a matka zamiast macy na śniadanie robi naleśniki. Nie są koszerne. Uważa się za Żyda. W kraju antysemityzmu bez Żydów musiał znaleźć się ktoś, kto za styl życia obrał pozorowany syndrom sztokholmski."
 ---
