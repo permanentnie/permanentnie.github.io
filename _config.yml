@@ -9,7 +9,7 @@ markdown: kramdown
 ### exclude the instructions / write-up in the README.md
 
 # Comments
-disqus-shortname: webjeda-demo
+disqus-shortname: permanentnie
 
 #optimization
 #compress.html
