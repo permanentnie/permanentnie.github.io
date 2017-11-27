@@ -29,5 +29,4 @@ sass:
 
 exclude:
 - README.md
-
-gems: [jekyll-seo-tag, jekyll-paginate]
+plugins: [jekyll-seo-tag, jekyll-paginate]
