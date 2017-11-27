@@ -1,44 +1,33 @@
-# Site wide configuration
+### your site title here
 
 title: Permanentnie
 locale: pl
-description: nieprzerwanie, cały czas się powtarzająco, ustawicznie, trwale, ciągle, stale
-logo: site-logo.png
-search: true
-url: http://permanentnie.net
+email: permanentnicz@gmail.com
 
-# Jekyll configuration
-
-permalink:   /:categories/:title/
-markdown:    kramdown
 highlighter: rouge
+markdown: kramdown
+### exclude the instructions / write-up in the README.md
+
+# Comments
+disqus-shortname: webjeda-demo
+
+#optimization
+#compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+
+
 sass:
-  sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
+ style: compressed
 
-kramdown:
-  input: GFM
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..2
-  enable_coderay: false
+exclude:
+- README.md
 
-mathjax: true
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
-
-comments: true
-
-# Site owner
-owner:
-  name: Permanentnie
-  avatar: bio-photo.jpg
-  email: permanentnicz@gmail.com
-  disqus-shortname: permanentnie
-  twitter: permanentnie
+gems: [jekyll-seo-tag, jekyll-paginate]
