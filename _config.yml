@@ -29,4 +29,4 @@ sass:
 
 exclude:
 - README.md
-plugins: [jekyll-seo-tag, jekyll-paginate]
+plugins: [jekyll-seo-tag, jekyll-paginate, jekyll-twitter-plugin]
