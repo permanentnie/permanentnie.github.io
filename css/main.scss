@@ -1,10 +1,15 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+@import url('https://fonts.googleapis.com/css?family=Spectral+SC');
+@import url('https://fonts.googleapis.com/css?family=Lora');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Atomic+Age');
 
 @charset "utf-8";
 
-$base-font-family: 'Work Sans', sans-serif;
+$header-font-family: 'Atomic Age', sans-serif;
+$base-font-family: 'Lora', sans-serif;
 $base-font-size:   20px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -14,7 +19,7 @@ $spacing-unit:     30px;
 
 $text-color:       #333;
 $background-color: #fdfdfd;
-$brand-color:      #60c17d;
+$brand-color:      #FD531E;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
