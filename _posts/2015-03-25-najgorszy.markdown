@@ -4,6 +4,7 @@ title: "Najgorszy człowiek na świecie"
 date: "2015-03-25"
 summary: "Siedzę na ławce, grzeję się w słońcu i czuję jak zdecydowanie zbyt mozolne od mentolowego dymu myśli grają mi w berka w głowie. Setki myśli. Cień wieżowca zwiedza chodnik a ja nadal nie mam jednego punktu skupienia. Dookoła setki otwartych nawiasów. Zero domknięć. Podjeżdża kolejna podmiejska kolejka. Następnych stu ludzi w garniturach i garsonkach. Przyglądam się chwilę nogom w szpilkach, żeby znów zaraz wrócić do maniakalnego otwierania nawiasów. "
 track_id: 176119576
+published: false
 ---
 
 Siedzę na ławce, grzeję się w słońcu i czuję jak zdecydowanie zbyt mozolne od mentolowego dymu myśli grają mi w berka w głowie. Setki myśli. Cień wieżowca zwiedza chodnik a ja nadal nie mam jednego punktu skupienia. Dookoła setki otwartych nawiasów. Zero domknięć. Podjeżdża kolejna podmiejska kolejka. Następnych stu ludzi w garniturach i garsonkach. Przyglądam się chwilę nogom w szpilkach, żeby znów zaraz wrócić do maniakalnego otwierania nawiasów.
